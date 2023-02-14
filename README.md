@@ -1,9 +1,9 @@
 # Date-Fruit-Image-Classification
 
 There are many date fruit types in Saudi Arabia such as Ajwa, Medjool, Nabtat 
-Ali, etc. In this project we've design and implement a deep learning-based image classification system (Convolutional Neural Network (CNN)) based on a provided image of a date.
+Ali, etc. In this project I've design and implement a deep learning-based image classification system (Convolutional Neural Network (CNN)) based on a provided image of a date.
 
-We've used an architecture that’s in the TensorFlow tutorial (https://www.tensorflow.org/tutorials/images/classification). The architecture was made for 
+I've used an architecture that’s in the TensorFlow tutorial (https://www.tensorflow.org/tutorials/images/classification). The architecture was made for 
 image classification in particular. The model consists of several layers, including a 
 convolutional layer for feature extraction, max pooling layers for down-sampling, and fully 
 connected layers for classification these layers take the output of the previous layer, which is 
