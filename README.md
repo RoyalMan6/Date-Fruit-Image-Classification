@@ -12,6 +12,11 @@ model activated by a ReLU activation function. ReLU is a commonly used activatio
 in deep learning and has been found to work well in practice. The model is trained using 
 supervised learning, where labeled images are used to learn the parameters of the network.
 
+# Samples from Dataset
+
+<image src="Data/test/Ajwa/Ajwa001.jpg" width="100" height="100"> <image src="Data/test/Galaxy/Galaxy002.jpg" width="100" height="100"> <image src="Data/test/Mejdool/Mejdool016.jpg" width="100" height="100"> <image src="Data/test/Meneifi/Meneifi009.jpg" width="100" height="100"> <image src="Data/test/NabtatAli/NabtatAli001.jpg" width="100" height="100"> <image src="Data/test/Rutab/Rutab002.jpg" width="100" height="100"> <image src="Data/test/Shaishe/Shaishe001.jpg" width="100" height="100"> <image src="Data/test/Sokari/Sokari003.jpg" width="100" height="100"> <image src="Data/test/Sugaey/Sugaey001.jpg" width="100" height="100">
+
+
 
 
 
